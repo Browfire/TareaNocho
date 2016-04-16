@@ -6,6 +6,7 @@ public class TareaNocho {
         magia();
     }
     public static void magia(){
+        int probando=0;
         int respuesta = 0;
         do{
             mensaje();
