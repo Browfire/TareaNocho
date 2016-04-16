@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 package tareanocho;
-
+import java.util.*
 public class TareaNocho {
     public static void main(String[] args) {
         magia();
